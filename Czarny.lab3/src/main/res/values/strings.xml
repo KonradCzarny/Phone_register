@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Czarny_lab3</string>
+    <string name="producer_label">Producent</string>
+    <string name="model_label">Model</string>
+    <string name="android_label">Wersja Androida</string>
+    <string name="www_label">WWW</string>
+    <string name="cancel_label">Anuluj</string>
+    <string name="save_label">Zapisz</string>
+    <string name="communicate">Należy wypełnić wszystkie pola</string>
+    <string name="add_label">Dodaj</string>
+    <string name="delete_label">Usuń</string>
+</resources>
